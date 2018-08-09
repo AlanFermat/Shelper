@@ -12,7 +12,9 @@ You will need to register for an account if you wish to request items for your s
 
 ## How to use
 git clone https://github.com/AlanFermat/Shelper.git
+
 cd Shelper/frontend
+
 open login.html
 
 __Then you are able to go to login page of our app__  
